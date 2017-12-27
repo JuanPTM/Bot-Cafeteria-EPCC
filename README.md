@@ -50,7 +50,8 @@ Steps to use the bot.
 
 Contact
 ----
-Feel free to contact with any doubt.
+Feel free to contact if you have any doubt.
+
 Authors
 * [JuanPTM][4]
 * [Mhaut][3]
